@@ -1,4 +1,8 @@
 Init 1
 Added Row 2
 From Reposit
+<<<<<<< HEAD
 Local
+=======
+Another Remote 
+>>>>>>> afc8389dcaf8bb9ec0f68a7bb317b77fc8b79947

@@ -4,9 +4,34 @@
 44
 55
 66
-77
+7777
 
 Remote change
 Remote change2
 Remote change3
 New Remote
+sdfsdf
+
+(mydev)
+
+git add bowlsengland/www/images/closing_dates_2018.pdf
+
+git add "bowlsengland/www/images/Championship Schedule 2018_v1.pdf"
+
+git add "bowlsengland/www/json.php"
+
+git add "bowlsengland/www/functions.php"
+
+git commit -m "Fixed Club dropdown"
+
+git clone bengt@horizonsolutions.tv@https://bitbucket.org/horizondev_team/horizondev.git
+
+git clone https://bitbucket.org/horizondev_team/horizondev.git
+
+git checkout -f HEAD
+
+git commit -m "Load files"
+
+https://bengthorizon@bitbucket.org/horizondev_team/horizondev.git
+
+git clone https://bengthorizon@bitbucket.org/horizondev_team/horizondev.git
